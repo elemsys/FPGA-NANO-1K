@@ -6,6 +6,13 @@ https://github.com/user-attachments/assets/72fae13e-4b59-4093-b0dd-701cc96691d4
 
 ---
 
+### Board Features (es)
+
+<img width="1000" height="1000" alt="fpganano1k_features4" src="https://github.com/user-attachments/assets/e3ff49de-1b68-4b3b-a6f3-4b6244384d28" />
+
+
+---
+
 ### Contact us
 
 - **Email**: elemsys.eei@gmail.com
